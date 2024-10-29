@@ -1,0 +1,33 @@
+
+.dakshya{
+    height: auto;
+    width: auto;
+    background-color:rgba(153, 205, 50, 0.517);
+    list-style:none;
+    justify-content:space-evenly;
+    display: inline-block;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+a{
+   text-decoration: none;
+   color:black;
+}
+li{
+    display: inline-block;
+}
+/* #outer{
+    background-color: aquamarine;
+    height:300px;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inner{
+    height:150px ;
+    width:150px ;
+    background-color: blueviolet;
+    
+} */
